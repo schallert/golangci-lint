@@ -51,3 +51,5 @@ require (
 	mvdan.cc/lint v0.0.0-20170908181259-adc824a0674b // indirect
 	mvdan.cc/unparam v0.0.0-20190720180237-d51796306d8f
 )
+
+replace github.com/golangci/revgrep => github.com/schallert/revgrep v0.0.0-20200218230121-d2524e8d6439
